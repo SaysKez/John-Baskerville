@@ -7,6 +7,8 @@ First mark up exercise.
 ###7 November 2016
 [Version 2](http://SaysKez.github.io/john-baskerville/john-baskerville2) - Added lists
 
+[Version 3](http://SaysKez.github.io/john-baskerville/john-baskerville3) - Added links within page
+
 ---
 
 #History of Type
