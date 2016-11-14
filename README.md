@@ -9,6 +9,9 @@ First mark up exercise.
 
 [Version 3](http://SaysKez.github.io/john-baskerville/john-baskerville3.html) - Added links within page
 
+###14th November 2016
+[Version 4](http://SaysKez.github.io/john-baskerville/john-baskerville4.html) - Converted list to table
+
 ---
 
 #A Brief History of Type
