@@ -27,3 +27,5 @@ First mark up exercise.
 
 ###14th November 2016
 [History Table](http://SaysKez.github.io/john-baskerville/history-table.html) - Converted list into table
+
+[History 3](http://SaysKez.github.io/john-baskerville/history3.html) - Added images
