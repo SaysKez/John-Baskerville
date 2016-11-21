@@ -31,4 +31,4 @@ First mark up exercise.
 [History 3](http://SaysKez.github.io/john-baskerville/history3.html) - Added images
 
 ###21st November 2016
-[History 4](http://SaysKez.github.io/john-baskerville/history4.html) - Combining table and text page
+[History 4](http://SaysKez.github.io/john-baskerville/history4.html) - Combined table and text page
