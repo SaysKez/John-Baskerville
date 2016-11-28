@@ -14,6 +14,9 @@ First mark up exercise.
 
 [Version 5](http://SaysKez.github.io/john-baskerville/john-baskerville5.html) - Added images
 
+###28th November 2016
+[Version 6](http://SaysKez.github.io/john-baskerville/john-baskerville6.html) - Styling the page with css
+
 ---
 
 #A Brief History of Type
