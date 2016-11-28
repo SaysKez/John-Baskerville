@@ -58,6 +58,12 @@ hgroup {
     margin-bottom: 3em;
 }
 
+b {
+    color: #403F3B;
+}
+
+/* footer */
+
 footer small {
     font-size: .7em;
     font-style: italic;
@@ -66,12 +72,6 @@ footer small {
 footer p {
     text-align: center;
 }
-
-b {
-    color: #403F3B;
-}
-
-/* links and nav */
 
 .anchor {
     text-transform: uppercase;
@@ -84,8 +84,11 @@ b {
 }
 
 .contact {
-    margin: .5em 1em;
+    margin: .5em 1em; /* work on the spacing! Margin doesn't seem to be working? */
 }
+
+/* links and nav */
+
 
 a {
     color: #403F3B;
