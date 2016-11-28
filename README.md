@@ -15,7 +15,7 @@ First mark up exercise.
 [Version 5](http://SaysKez.github.io/john-baskerville/john-baskerville5.html) - Added images
 
 ###28th November 2016
-[Version 6](http://SaysKez.github.io/john-baskerville/john-baskerville6.html) - Styling the page with css
+[Version 6](http://SaysKez.github.io/john-baskerville/john-baskerville6.html) - Beginning to style the page with css
 
 ---
 
@@ -35,3 +35,6 @@ First mark up exercise.
 
 ###21st November 2016
 [History 4](http://SaysKez.github.io/john-baskerville/history4.html) - Combined table and text page
+
+###28th November 2016
+[Version 5](http://SaysKez.github.io/john-baskerville/history5.html) - Styling the page with css
