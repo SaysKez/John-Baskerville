@@ -106,8 +106,9 @@ a:hover {
 
 nav {
     padding: 1em 0;
-    border-top: 1px solid #333;
-    border-bottom: 1px solid #333;
+    border-top: 1px solid #403F3B;
+    border-bottom: 1px solid #403F3B;
+    border-radius: 5px;
     margin-bottom: 4em;
 }
 
@@ -136,15 +137,34 @@ img {
 }
 
 /* table */
+
 table {
     margin: auto;
-    margin-bottom: 3em;
+    margin-bottom: 2em;
+    width: 100%;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
 }
 
 caption {
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
 }
 
 th {
-    color: #403F3B;
+    color: #F6F5E4;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #403F3B;
+}
+
+th, td {
+    padding: .6em;
+}
+
+table, td {
+    background: rgba(0,0,0,.1);
+    border: 1px solid #fff;
 }

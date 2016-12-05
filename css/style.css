@@ -12,7 +12,7 @@
 body {
     width: 75%;
     max-width: 700px;
-    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: "Libre Baskerville", serif;
     margin: auto;
     background-color: #f0f0f0;
     color: #333;
@@ -111,6 +111,41 @@ nav ul li {
 nav a:hover {
     border-bottom: none;
 }
+
+
+/* table */
+
+table {
+    margin: auto;
+    margin-bottom: 2em;
+    width: 100%;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+}
+
+caption {
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+th {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #c06;
+}
+
+th, td {
+    padding: .6em;
+}
+
+table, td {
+    background: rgba(0,0,0,.1);
+    border: 1px solid #fff;
+}
+
 
 /* images */
 

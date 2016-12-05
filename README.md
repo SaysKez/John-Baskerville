@@ -17,6 +17,9 @@ First mark up exercise.
 ###28th November 2016
 [Version 6](http://SaysKez.github.io/john-baskerville/john-baskerville6.html) - Beginning to style the page with css
 
+###5th December 2016
+[Version 7](http://SaysKez.github.io/john-baskerville/john-baskerville7.html) - Introducing web typography and table styling
+
 ---
 
 #A Brief History of Type
