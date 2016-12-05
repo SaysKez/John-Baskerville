@@ -20,6 +20,9 @@ First mark up exercise.
 ###5th December 2016
 [Version 7](http://SaysKez.github.io/john-baskerville/john-baskerville7.html) - Introducing web typography and table styling
 
+###5th December 2016
+[Typography Exercise](http://SaysKez.github.io/john-baskerville/john-baskerville-type.html) - Styling a page to match this [Typography Exercise](https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD101/resources/week-11-make-this.png)
+
 ---
 
 #A Brief History of Type
