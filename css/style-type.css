@@ -13,7 +13,7 @@ body {
     width: 75%;
     max-width: 700px;
     margin: auto;
-    color: #333;
+    color: #000;
     line-height: 1.8em;
 }
 
@@ -112,9 +112,9 @@ hr {
 /* VERSION 3: Arvo */
 
 .ver3 {
-    font-family: Arvo, serif;
+    font-family: 'Arvo', serif;
 }
 
-.ver3 p {
+.ver3 p, h3 {
     font-family: 'Open Sans', sans-serif;
 }
