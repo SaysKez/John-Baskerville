@@ -45,4 +45,4 @@ First mark up exercise.
 [Version 5](http://SaysKez.github.io/john-baskerville/history5.html) - Styling the page with css
 
 ###7th December 2016
-[Version 6](http://SaysKez.github.io/john-baskerville/history6.html) - Introducing web typography, table styling, and media queries
+[Version 6](http://SaysKez.github.io/john-baskerville/history6.html) - Trying out Adobe Typekit and introducing table styling and media queries
