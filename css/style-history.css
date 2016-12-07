@@ -12,11 +12,12 @@
 body {
     width: 75%;
     max-width: 700px;
-    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: 'Adobe Caslon Pro', serif;
+/*    font-family: Georgia, Times, "Times New Roman", serif; */
     margin: auto;
     background-color: #F6F5E4;
     color: #333;
-    line-height: 1.8em;  
+    line-height: 1.8em; 
 }
     
 h1, h2, h3 {
@@ -28,6 +29,10 @@ h1, h2, h3 {
 p, li {
     margin-bottom: 2em;
     line-height: 1.5em;
+}
+
+p {
+    font-size: 105%;
 }
 
 h1 {
@@ -167,4 +172,49 @@ th, td {
 table, td {
     background: rgba(0,0,0,.1);
     border: 1px solid #fff;
+}
+
+
+/* MEDIA QUERIES */
+
+/* tablet */
+@media (max-width: 50em) {
+    body {
+        width: 85%;
+    }
+    
+    article {
+        width: 95%;
+        padding: 0.5em;
+}
+}
+
+/* mobile */
+@media (max-width: 35em) {
+    body {
+        margin: auto 0;
+        width: 100%;
+        font-size: 115%;
+    }
+   
+    table {
+        font-size: 90%;
+    }
+    
+    article {
+        width: 90%;
+    }
+    
+    h1 {
+        font-size: 3em;
+        line-height: 1.3em;
+    }
+    
+    blockquote {
+        font-size: 90%;
+    }
+    
+    footer p {
+        font-size: 80%;
+    }
 }

@@ -18,7 +18,7 @@ First mark up exercise.
 [Version 6](http://SaysKez.github.io/john-baskerville/john-baskerville6.html) - Beginning to style the page with css
 
 ###5th December 2016
-[Version 7](http://SaysKez.github.io/john-baskerville/john-baskerville7.html) - Introducing web typography and table styling
+[Version 7](http://SaysKez.github.io/john-baskerville/john-baskerville7.html) - Introducing web typography, table styling, and media queries
 
 [Typography Exercise](http://SaysKez.github.io/john-baskerville/john-baskerville-type.html) - Styling a page to match this [Baskerville Typography Exercise](https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD101/resources/week-11-make-this.png)
 
@@ -43,3 +43,6 @@ First mark up exercise.
 
 ###28th November 2016
 [Version 5](http://SaysKez.github.io/john-baskerville/history5.html) - Styling the page with css
+
+###7th December 2016
+[Version 6](http://SaysKez.github.io/john-baskerville/history6.html) - Introducing web typography, table styling, and media queries
