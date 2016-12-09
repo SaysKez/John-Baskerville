@@ -117,3 +117,8 @@ hr {
 
 .ver3 p, h3 {
     font-family: 'Open Sans', sans-serif;
+}
+
+.ver3 blockquote {
+    font-style: italic; 
+}
