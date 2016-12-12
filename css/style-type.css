@@ -83,6 +83,7 @@ hr {
 .dropcap {
     font-size: 300%;
     float: left;
+    line-height: .4em;
 }
 
 
@@ -98,7 +99,10 @@ hr {
 
 .indent {
     text-indent: 1.5em;
-    margin-top: -2em;
+}
+
+.ver2 p+p {
+    margin-bottom: -1em;
 }
 
 .ver2 cite {
