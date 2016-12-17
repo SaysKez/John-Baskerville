@@ -7,11 +7,11 @@
     line-height: 1em;
 }
 
+
+
 /* styling */
 
 body {
-    width: 75%;
-    max-width: 700px;
     font-family: 'Adobe Caslon Pro', serif;
 /*    font-family: Georgia, Times, "Times New Roman", serif; */
     margin: auto;
@@ -20,6 +20,12 @@ body {
     line-height: 1.8em; 
 }
     
+p, h1, h3, blockquote, table {
+    width: 75%;
+    max-width: 700px;
+    margin: auto;
+}
+
 h1, h2, h3 {
     font-weight: normal;
     color: #403F3B;
@@ -39,17 +45,31 @@ h1 {
     font-size: 4em;
     margin-top: 1em;
     margin-bottom: .2em;
+    letter-spacing: 0.02em;
 }
 
 h2 {
+    width: 50%;
+    margin: auto;
     font-size: 2.25em;
     margin-bottom: 1em;
     margin-top: 2em;
+    
+    padding: .5em 0;
+    border-top: 1px solid #403F3B;
+    border-bottom: 1px solid #403F3B;
+    border-radius: 5px;
 }
 
 h3 {
     font-size: 1.8em;
     margin-bottom: 1em;
+    
+    padding: .5em 0;
+    border-top: 1px solid #403F3B;
+    border-bottom: 1px solid #403F3B;
+    border-radius: 5px;
+    width: 30%;
 }
 
 header h2 {
@@ -57,16 +77,22 @@ header h2 {
     font-size: 1.8em;
     color: #403F3B;
     margin-top: auto;  
-    margin-bottom: 3em;
+    margin-bottom: 2em;
+    
+    border: none;
 }
 
 header h3 {
     font-size: 1.2em;
+    margin-bottom: .2em;
+    padding: 0;
+    border: none;
 }
 
 b {
     color: #403F3B;
 }
+
 
 /* footer */
 
@@ -93,8 +119,9 @@ footer p {
     margin: .5em 1em; /* work on the spacing! Margin doesn't seem to be working? */
 }
 
-/* links and nav */
 
+
+/* links and nav */
 
 a {
     color: #403F3B;
@@ -107,11 +134,14 @@ a:hover {
 }
 
 nav {
+    width: 100%;
+    margin: auto;
     padding: 1em 0;
     border-top: 1px solid #403F3B;
     border-bottom: 1px solid #403F3B;
     border-radius: 5px;
     margin-bottom: 4em;
+    background: rgba(0,0,0,.1);
 }
 
 nav ul {
@@ -129,6 +159,8 @@ nav a:hover {
     border-bottom: none;
 }
 
+
+
 /* images */
 
 img {
@@ -137,6 +169,8 @@ img {
     padding: 0;
     max-width: 100%
 }
+
+
 
 /* table */
 
@@ -150,6 +184,7 @@ table {
 }
 
 caption {
+    line-height: 1.5em;
     margin-bottom: 1.5em;
     text-transform: uppercase;
 }
@@ -172,6 +207,7 @@ table, td {
 }
 
 
+
 /* MEDIA QUERIES */
 
 /* tablet */
@@ -183,8 +219,10 @@ table, td {
     article {
         width: 95%;
         padding: 0.5em;
+    }
+    
 }
-}
+
 
 /* mobile */
 @media (max-width: 35em) {
