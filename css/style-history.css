@@ -57,14 +57,11 @@ header h2 {
     font-size: 1.8em;
     color: #403F3B;
     margin-top: auto;  
+    margin-bottom: 3em;
 }
 
 header h3 {
     font-size: 1.2em;
-}
-
-hgroup {
-    margin-bottom: 3em;
 }
 
 b {
